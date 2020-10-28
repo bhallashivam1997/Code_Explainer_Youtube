@@ -1,3 +1,4 @@
+/* Hey, Your code will give wrong answer for N=2,because for N=2 the value of A and B can be 0 and 0 respectively*/
 #include <bits/stdc++.h>
         #include <math.h>
     
