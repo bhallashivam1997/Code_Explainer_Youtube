@@ -38,11 +38,11 @@
             cin>>N;
             long long a=1;
             long long b=1;
-            for(int i=1;i<=40;i++){
+            for(int i=0;i<=40;i++){
                 if(i>0)
                     a=a*3LL;
                 b=1;
-                for(int j=1;j<=30;j++){
+                for(int j=0;j<=30;j++){
                     if(j>0)
                         b=b*5LL;
                     if(a+b==N){
